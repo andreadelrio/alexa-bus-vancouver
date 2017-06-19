@@ -1,0 +1,11 @@
+{
+  "name": "alexa-translink-time",
+  "version": "1.0.0",
+  "description": "An Amazon Echo Skill that gets the distance away from a given stop for a Vancouver bus.",
+  "main": "index.js",
+  "author": "Andrea Del Rio",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^1.2.0"
+  }
+}
